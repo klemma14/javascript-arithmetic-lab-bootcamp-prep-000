@@ -21,7 +21,7 @@ function makeInt(n) {
   return parseInt(n,10)
 }
 function makeInt(n) {
-  return parseInt('10',10)
+  return parseInt(0,10)
 }
 function makeInt(n) {
   return parseInt('fdfd', 10)
