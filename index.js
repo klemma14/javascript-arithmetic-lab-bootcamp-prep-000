@@ -1,4 +1,4 @@
-var number = 10
-function add() {
- number += 10 
-}
+var a = 10;
+var b = 5;
+var c = a + b;
+
