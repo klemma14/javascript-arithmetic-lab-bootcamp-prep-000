@@ -12,12 +12,10 @@ function divide(a,b) {
   return (a/b)
 }
 function inc(n) {
-  var number = 2 
-  number++
-  number
+ return (++n)
 }
 function dec(n) {
-  return n--
+  return (n--)
 }
 function makeInt(n) {
   return parseInt(n,)
